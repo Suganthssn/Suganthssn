@@ -30,11 +30,11 @@
 - 🟠 **LeetCode**: https://leetcode.com/u/borusara/
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/borusara?theme=dark&font=Fira%20Code&ext=contest" />
 </p>
 
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CODEFORCES_USERNAME&theme=dark" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=__NION__&theme=dark" />
 </p>
 
 ---
