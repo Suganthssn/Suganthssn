@@ -26,8 +26,8 @@
 
 ## 🏆 Competitive Programming Profiles  
 
-- 🔵 **Codeforces**: https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME  
-- 🟠 **LeetCode**: https://leetcode.com/YOUR_LEETCODE_USERNAME  
+- 🔵 **Codeforces**: https://codeforces.com/profile/__NION__  
+- 🟠 **LeetCode**: https://leetcode.com/u/borusara/
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=contest" />
