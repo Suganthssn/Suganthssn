@@ -29,9 +29,6 @@
 - 🔵 **Codeforces**: https://codeforces.com/profile/__NION__  
 
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/borusara?theme=dark&font=Fira%20Code&ext=contest" />
-</p>
 
 <p align="center">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=__NION__&theme=dark" />
