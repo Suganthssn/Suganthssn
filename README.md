@@ -27,7 +27,7 @@ Database
 📈 Top Languages
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=transparent&hide_border=true" /> </p>
 🐍 Contribution Graph Animation
-<p align="center"> <img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg" alt="snake animation" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Suganthssn/Suganthssn/output/github-contribution-grid-snake.svg" alt="snake animation" /> </p>
 🎯 2026 Goals
 
 🚀 Build production-ready full stack applications
