@@ -23,7 +23,7 @@ I enjoy building scalable web applications and writing clean, maintainable, and 
 
 🔥 GitHub Streak
 <p align="center"> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Suganthssn&theme=tokyonight&hide_border=true" /> </p>
-<img src="https://raw.githubusercontent.com/Suganthssn/Suganthssn/output/github-contribution-grid-snake.svg" />
+
 
 🎯 2026 Goals
 
