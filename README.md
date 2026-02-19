@@ -19,10 +19,12 @@ I enjoy building scalable web applications and writing clean, maintainable, and 
 <p> <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" /> </p>
 🧠 Tools
 <p> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
-📊 GitHub Statistics
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Suganthssn&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suganthssn&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+
+
 🔥 GitHub Streak
 <p align="center"> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Suganthssn&theme=tokyonight&hide_border=true" /> </p>
+<img src="https://raw.githubusercontent.com/Suganthssn/Suganthssn/output/github-contribution-grid-snake.svg" />
+
 🎯 2026 Goals
 
 🚀 Build production-ready full stack applications
